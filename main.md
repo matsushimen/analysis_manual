@@ -188,5 +188,5 @@ bed形式で保存した遺伝子座の上流下流数bp〜数kbpの領域にお
 
 ## Hi-Cデータの解析
 
-AidenLab(https://www.aidenlab.org/)にあるHi-Cデータセットを用いて特定の配列周辺のクロマチン構造推定を行う。<br>
+AidenLab(https://www.aidenlab.org/) にあるHi-Cデータセットを用いて特定の配列周辺のクロマチン構造推定を行う。<br>
 juicer toolを使ってダウンロードしたデータセットを非バイナリ形式(エディターで編集できる形)に変換する必要がある。<br>
